@@ -19,10 +19,10 @@ La documentación es esencial en cualquier proyecto, ya que facilita la comprens
 
 Enlace a una URL externa: [Pccomponentes](https://www.pccomponentes.com/)
 
-Enlace a otro fichero Markdown en el repositorio: [Enlace al archivo Markdown](ruta/al/archivo.md)
+Enlace a otro fichero Markdown en el repositorio: [Enlace al archivo Markdown2](markdown2.md)
 
 Imagen:
-![Texto alternativo](ruta/a/la/imagen.jpg)
+![Esta  es una imagen del logo de markdown](imagen.jpg)
 
 Tabla:
 
