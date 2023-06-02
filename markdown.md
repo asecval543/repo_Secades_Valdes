@@ -23,13 +23,13 @@ La documentación es esencial en cualquier proyecto, ya que facilita la comprens
 - Lista no ordenada 3
 - Lista no ordenada 4
 
-* Lista ordenada 1
+1. Lista ordenada 1
 
-* Lista ordenada 2
+2. Lista ordenada 2
 
-* Lista ordenada 3
+3. Lista ordenada 3
 
-* Lista ordenada 4
+4. Lista ordenada 4
 
 Enlace a una URL externa: [https://www.pccomponentes.com/](https://www.pccomponentes.com/)
 
